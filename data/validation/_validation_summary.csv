@@ -1,0 +1,8 @@
+ticker,note,filing_date,price_rows,annual_bs_available,quarterly_bs_available,price_covers_filing_date
+RAD,Rite Aid - filed Chapter 11,2023-10-15,0,False,False,False
+WE,WeWork - filed Chapter 11,2023-11-06,0,False,False,False
+PRTY,Party City - filed Chapter 11 (1st time),2023-01-17,0,False,False,False
+YELL,"Yellow Corp (trucking) - filed Chapter 11, liquidated",2023-08-06,0,False,False,False
+SBH,"Sally Beauty - NOT bankrupt, control case (stable-ish)",,4932,True,True,False
+CVNA,"Carvana - severe distress 2022-23, survived (near-miss control case)",,2305,True,True,False
+AMC,"AMC Entertainment - heavy leverage, survived (near-miss control case)",,3150,True,True,False

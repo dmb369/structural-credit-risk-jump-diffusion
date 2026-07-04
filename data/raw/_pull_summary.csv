@@ -1,0 +1,11 @@
+ticker,note,price_rows,annual_bs_available,quarterly_bs_available
+AAPL,Apple - stable large-cap,1254,True,True
+MSFT,Microsoft - stable large-cap,1254,True,True
+JNJ,"Johnson & Johnson - stable, low leverage",1254,True,True
+F,"Ford - cyclical, moderate leverage",1254,True,True
+CCL,"Carnival Corp - high leverage, COVID-stressed then recovered",1254,True,True
+AAL,"American Airlines - high leverage, cyclical",1254,True,True
+BBBY,"Bed Bath & Beyond - filed bankruptcy 2023 (may be delisted, check output)",1254,True,True
+SIVB,"Silicon Valley Bank - collapsed March 2023 (likely delisted, check output)",0,False,False
+PARA,Paramount - recent credit stress / rating pressure,0,False,False
+WBD,Warner Bros Discovery - high leverage post-merger,1254,True,True
